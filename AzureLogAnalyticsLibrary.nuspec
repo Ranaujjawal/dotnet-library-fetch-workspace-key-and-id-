@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>crosstenantlbrary_9202</id>
+    <version>1.0.1</version>
+    <authors>Vinita</authors>
+    <owners>Vinita</owners>
+    <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+    <projectUrl>https://github.com/yourrepo</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A library for interacting cross tenant to read and write logs </description>
+    <releaseNotes>Initial release.</releaseNotes>
+    <tags>Azure LogAnalytics KeyVault</tags>
+  </metadata>
+  <files>
+    <file src="bin\Release\net6.0\AzureLogAnalyticsLibrary.dll" target="lib\net6.0" />
+    <file src="bin\Release\net6.0\AzureLogAnalyticsLibrary.pdb" target="lib\net6.0" />
+  </files>
+</package>

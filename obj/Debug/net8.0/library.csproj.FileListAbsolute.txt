@@ -1,0 +1,12 @@
+C:\Users\Dell G7 7588\OneDrive\Desktop\library\bin\Debug\net8.0\library.deps.json
+C:\Users\Dell G7 7588\OneDrive\Desktop\library\bin\Debug\net8.0\library.dll
+C:\Users\Dell G7 7588\OneDrive\Desktop\library\bin\Debug\net8.0\library.pdb
+C:\Users\Dell G7 7588\OneDrive\Desktop\library\obj\Debug\net8.0\library.csproj.AssemblyReference.cache
+C:\Users\Dell G7 7588\OneDrive\Desktop\library\obj\Debug\net8.0\library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell G7 7588\OneDrive\Desktop\library\obj\Debug\net8.0\library.AssemblyInfoInputs.cache
+C:\Users\Dell G7 7588\OneDrive\Desktop\library\obj\Debug\net8.0\library.AssemblyInfo.cs
+C:\Users\Dell G7 7588\OneDrive\Desktop\library\obj\Debug\net8.0\library.csproj.CoreCompileInputs.cache
+C:\Users\Dell G7 7588\OneDrive\Desktop\library\obj\Debug\net8.0\library.dll
+C:\Users\Dell G7 7588\OneDrive\Desktop\library\obj\Debug\net8.0\refint\library.dll
+C:\Users\Dell G7 7588\OneDrive\Desktop\library\obj\Debug\net8.0\library.pdb
+C:\Users\Dell G7 7588\OneDrive\Desktop\library\obj\Debug\net8.0\ref\library.dll
