@@ -11,7 +11,7 @@ AzureLogAnalyticsLibrary is a C# library for interacting with Azure Log Analytic
 
 ## Requirements
 
-- .NET 6.0 or later
+- .NET 8.0 or later
 - Azure Key Vault
 - Azure Log Analytics Workspace
 - Azure Managed Identity or Service Principal
