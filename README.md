@@ -67,7 +67,9 @@ class Program
         Console.WriteLine($"Workspace Key: {workspaceKey}");
 
         // Fetch Logs
-        string query = "AzureActivity | take 10";
+        string query = @"demotable_CL
+                         | sort by TimeGenerated desc
+                         | limit 10";;
         await AzureLogAnalyticsClient.FetchLogsAsync(client.Certificate, workspaceId, config.TenantId, config.ClientId, query, config.LogQueryDays);
 
         // Write Logs
